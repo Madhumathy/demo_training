@@ -1,0 +1,27 @@
+{
+    "name"      :   "Demo test",
+    "email"     :   "testtester12@demo.com",
+    "date_dob"  :   20,
+    "month_dob" :   "December",
+    "year_dob"  :   1999,
+    "fName"     :   "test",
+    "lName"     :   "tester",
+    "password"  :   "admin123",
+    "address"   :   "123, golden road",
+    "Country"   :   "Canada",
+    "State"     :   "TN",
+    "City"      :   "Chennai",
+    "Zipcode"   :   603103,
+    "MobileNo"  :   9876545678,
+
+    "LoggingIn" : {
+        "ValidAccount" : {
+            "validUsername" : "testtester12@demo.com",
+            "validPassword" : "admin123"
+        },
+        "InvalidAccount" : {
+            "invalidUsername" : "demotest1",
+            "invalidPassword" : "Pass123"
+        }
+    }
+}
